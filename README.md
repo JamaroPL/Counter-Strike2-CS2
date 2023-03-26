@@ -31,6 +31,16 @@ Enjoy !!!!
 
 
 
+DISCLAIMER: Sorry for my English i am from Netherland and i dont speak it really well
+
+DISCLAIMER 2: | am NOT responsible for any damages caused by this software to anyone.
+
+
+
+
+
+
+
 
 
 
