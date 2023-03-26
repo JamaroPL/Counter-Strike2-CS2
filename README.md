@@ -29,8 +29,11 @@ then its will update your CSGO to a new CS2 version
 
 
 Credits
+
 Thanks to hazedumper library for providing memory offsets.
+
 Thanks to bsp_parser library for making the aimbot even better.
+
 
 
 
