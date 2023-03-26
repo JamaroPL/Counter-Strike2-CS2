@@ -7,6 +7,7 @@ FREE Counter Strike 2 Dowloand !!!
 
 ![image](https://user-images.githubusercontent.com/128936066/227786059-a067ed4f-729c-4b1d-9cf6-b42d9f8e2418.png)
 
+About 
 
 Easy to use its just a  rar version of Counter Strike 2 Beta , 
 
@@ -22,18 +23,14 @@ then its will update your CSGO to a new CS2 version
 
 
 
-![image](https://user-images.githubusercontent.com/128936066/227785761-8f9fc91c-9c90-41f1-9cba-25b535c8a7ed.png)
 
 
 
 
-Enjoy !!!!
 
-
-
-DISCLAIMER: Sorry for my English i am from Netherland and i dont speak it really well
-
-DISCLAIMER 2: | am NOT responsible for any damages caused by this software to anyone.
+Credits
+Thanks to hazedumper library for providing memory offsets.
+Thanks to bsp_parser library for making the aimbot even better.
 
 
 
