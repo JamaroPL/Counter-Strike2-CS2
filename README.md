@@ -38,9 +38,9 @@ How to play Couter Strike 2 ?
 
 Credits
 =============================================
-Thanks to hazedumper library for providing memory offsets.
+Thanks to PolarnyKing for providing memory offsets.
 
-Thanks to bsp_parser library for making the aimbot even better.
+Thanks to Zizel  for for helping me with that project
 
 
 
