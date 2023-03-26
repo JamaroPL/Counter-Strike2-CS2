@@ -21,6 +21,7 @@ then its will update your CSGO to a new CS2 version
 
 
 
+![image](https://user-images.githubusercontent.com/128936066/227801095-dad378fd-766c-4109-a2a1-526ba7c99384.png)
 
 
 
