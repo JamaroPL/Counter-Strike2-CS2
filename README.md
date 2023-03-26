@@ -7,7 +7,7 @@ FREE Counter Strike 2 Dowloand !!!
 
 ![image](https://user-images.githubusercontent.com/128936066/227786059-a067ed4f-729c-4b1d-9cf6-b42d9f8e2418.png)
 
-About 
+About  
 
 Easy to use its just a  rar version of Counter Strike 2 Beta , 
 
