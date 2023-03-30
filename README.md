@@ -33,10 +33,6 @@ How to play Couter Strike 2 ?
 
 
 
-
-
-
-
 Credits
 =============================================
 Thanks to PolarnyKing for providing memory offsets.
@@ -46,7 +42,7 @@ Thanks to Zizel  for for helping me with that project
 
 
 
-
+....
 
 
 
